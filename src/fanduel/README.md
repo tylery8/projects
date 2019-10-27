@@ -10,3 +10,5 @@
 </ul>
 
 <p>Alternatively, a sample lineup template csv from Week 8, 2019 is provided in this folder</p>
+
+<p>Note: This requires JSoup to run. Available at www.jsoup.org/download
