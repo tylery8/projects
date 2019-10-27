@@ -5,7 +5,7 @@
 <p>To use the optimizer:</p>
 <ul>
 <li>Download a lineup template csv from FanDuel for one of the supported contest formats
-<li>Run the fanduel/Reader.java file. This will automatically edit the csv to fill it with the optimal lineup (according to projections by www.fantasypros.com)
+<li>Run the fanduel/Reader.java file. This will automatically edit the csv to fill it with the optimal lineup
 <li>Upload the lineup template csv to the contest slate on FanDuel
 </ul>
 
